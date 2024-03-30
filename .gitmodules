@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TrivialToDo/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TrivialToDo/frontend.git
+[submodule "wechat"]
+	path = wechat
+	url = https://github.com/TrivialToDo/wechat.git
